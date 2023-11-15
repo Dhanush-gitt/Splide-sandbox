@@ -1,7 +1,7 @@
 var splide = new Splide( '.splide',{
     type: 'loop',
     speed: 500,
-    perPage: 1,
+    perPage: 3,
     focus: 'center',
     updateOnMove: true,
     trimSpace: false,
